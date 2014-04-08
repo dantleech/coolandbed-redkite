@@ -1,0 +1,8 @@
+{
+    "autoload": {
+        "psr-0": { "RedKiteCms\\Theme\\CoolAndBedThemeBundle": ""
+        }
+    },
+    "target-dir" : "RedKiteCms/Theme/CoolAndBedThemeBundle",
+    "minimum-stability": "dev"
+}

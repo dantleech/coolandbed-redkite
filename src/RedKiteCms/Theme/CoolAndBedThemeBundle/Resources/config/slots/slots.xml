@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<container xmlns="http://symfony.com/schema/dic/services"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://symfony.com/schema/dic/services http://symfony.com/schema/dic/services/services-1.0.xsd">
+
+    <services>
+        <service id="cool_and_bed_theme.theme.template.slots.page_title" class="%red_kite_labs_theme_engine.slot.class%" public="false">
+            <argument type="string">page_title</argument>
+            <argument type="collection" >
+                <argument key="repeated">site</argument>
+                <argument key="htmlContent">
+                    <![CDATA[Default Title]]>
+                </argument>
+            </argument>
+            <tag name="cool_and_bed_theme.theme.template.slot" />
+        </service>
+    </services>
+</container>

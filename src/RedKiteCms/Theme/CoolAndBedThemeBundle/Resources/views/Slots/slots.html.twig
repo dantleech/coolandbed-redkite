@@ -1,0 +1,9 @@
+{% block page_title %}
+    {# BEGIN-SLOT
+        name: page_title
+        repeated: site
+        htmlContent: |
+            Default Title
+    END-SLOT #}    
+    {{ renderSlot('page_title') }}
+{% endblock %}

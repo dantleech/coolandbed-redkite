@@ -1,0 +1,5 @@
+_AcmeWebSiteBundle:
+    resource: "@AcmeWebSiteBundle/Resources/config/site_routing.yml"
+
+_RedKiteCmsInstallerBundle:
+    resource: "@RedKiteCmsInstallerBundle/Resources/config/routing.yml"
