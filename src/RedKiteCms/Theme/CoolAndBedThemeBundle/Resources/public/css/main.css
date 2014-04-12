@@ -1,0 +1,70 @@
+nav.main a.menu-dormir{
+	background-image:url('../images/cool%26bed_dormir.png');
+	background-repeat:no-repeat;
+	
+    width: 146px;
+}
+
+nav.main a.menu-reserver{
+   background-image: url("../images/cool%26bed_reserver.png");
+    background-repeat: no-repeat;
+    margin-left: 13px;
+    width: 134px;
+}
+
+nav.main a.menu-venir{
+    background-image: url("../images/cool%26bed_venir.png");
+    background-repeat: no-repeat;
+    width: 141px;
+	    margin-left: 5px;
+}
+
+nav.main a.menu-bouger{
+	background-image:url('../images/cool%26bed_bouger.png');
+	background-repeat:no-repeat;
+	    width: 161px;
+}
+
+nav.main a.menu-visiter{
+	background-image:url('../images/cool%26bed_visiter.png');
+	background-repeat:no-repeat;
+	    width: 141px;
+}
+
+
+nav.main a.menu-galerie{
+	background-image:url('../images/cool%26bed_galerie_photo.png');
+	background-repeat:no-repeat;
+    width: 192px;	
+    margin-left: 4px;
+}
+
+nav.main ul {
+    list-style: none;
+}
+nav.main .menu-item li {
+    display: block;
+    width: 161px;
+    height: 180px;
+    float: left;
+}
+
+nav.main .menu-item a {
+    width: 161px;
+    height: 180px;
+    float: left;
+    text-indent: -9999px;  
+}
+
+.clear {
+    clear: both;
+}
+
+nav.main {
+    margin-left: 220px;
+    margin-top: -30px;
+}
+
+.page-content {
+    padding: 20px;
+}

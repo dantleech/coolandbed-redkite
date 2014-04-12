@@ -28,7 +28,6 @@ class AppKernel extends Kernel
 
         // RedKiteCms Active Theme
         $bundles[] = new RedKiteLabs\ThemeEngineBundle\RedKiteLabsThemeEngineBundle();
-        $bundles[] = new RedKiteCms\Theme\ModernBusinessThemeBundle\ModernBusinessThemeBundle();
         // End RedKiteCms Active Theme
 
         return $bundles;

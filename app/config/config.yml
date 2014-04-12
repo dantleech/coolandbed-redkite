@@ -69,4 +69,3 @@ swiftmailer:
 
 red_kite_labs_theme_engine:
     deploy_bundle: AcmeWebSiteBundle
-
