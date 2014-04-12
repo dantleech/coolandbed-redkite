@@ -18,6 +18,7 @@
 /composer.lock
 /web/rkcms*
 /web/stage*
+/web/components
 /web/css/
 /web/js/
 /web/sitemap.xml

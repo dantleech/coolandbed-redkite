@@ -31,7 +31,12 @@
         "sensio/generator-bundle": "2.3.*",
         "incenteev/composer-parameter-handler": "~2.0",
         "propel/propel-bundle": "1.2.*",
-        "propel/propel1": "1.7.0"
+        "propel/propel1": "1.7.0",
+        "redkite-cms/redkite-cms-bundle": "1.1.*",
+        "redkite-cms/installer-bundle": "1.1.*",
+        "redkite-labs/bootbusiness-theme-bundle": "1.1.*",
+        "redkite-cms/redkite-cms-base-blocks": "1.1.*",
+        "redkite-cms/tinymce-block-bundle": "1.1.*"
     },
     "require-dev": {    
       "willdurand/propel-typehintable-behavior": "dev-master",  
